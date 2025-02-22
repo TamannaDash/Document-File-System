@@ -11,7 +11,9 @@ Automated Form Filling: Pre-populates forms based on stored data.
 
 ## Data Management: Stores user input for future use.
 
-User-Friendly Interface: Simple and intuitive UI for ease of use.
+## User-Friendly Interface: 
+
+Simple and intuitive UI for ease of use.
 
 Security & Access Control: Ensures data protection with authentication mechanisms.
 
@@ -27,9 +29,9 @@ git clone https://github.com/your-repository/document-filling-system.git
 
 Navigate to the project directory:
 
-cd document-filling-system
+## cd document-filling-system
 
-Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt  # For Python-based systems
 npm install  # For JavaScript-based systems
