@@ -70,7 +70,7 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+Contact@
 
 For inquiries or support, please email [dashtamanna90@gmail.com].
 
